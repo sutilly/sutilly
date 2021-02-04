@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Tilli, a graphic designer currently based in Vienna :ferris_wheel:, who discovered the beautiful, challenging, sometimes very frustrating but also really rewarding world of coding. 
+The projects here were implemented during three semesters of Web- and App Development, in which I have gained first experiences with Java, PHP, HTML, CSS, Javascript, Typescript, Angular, Kotlin and Swift.
+
 <!--
 **sutilly/sutilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
