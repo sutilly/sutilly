@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm Mathilde, a graphic and UX designer currently based in Vienna :ferris_wheel:, who discovered the beautiful, challenging, sometimes very frustrating but also really rewarding world of coding. 
-The projects here were implemented during three semesters of Web- and App Development, in which I have gained first experiences with Java, PHP, HTML, CSS, Javascript, Typescript, Angular, Kotlin and Swift. 
+I'm Mathilde, a junior frontend developer, graphic and UX designer currently based in Vienna :ferris_wheel:.
+Some of the projects here were implemented during three semesters of Web- and App Development, in which I have gained first experiences with Java, PHP, HTML, CSS, Javascript, Typescript, Angular, Kotlin and Swift.
 
 
 <!--
